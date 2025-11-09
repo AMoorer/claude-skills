@@ -207,7 +207,7 @@ https://github.com/AMoorer/claude-skills
 
 **Andy Moorer**
 - Senior Technical Artist at Meta Reality Labs
-- Focus: Real-time simulation, procedural systems, PopcornFX
+- Focus: Real-time simulation, GenAI, procedural systems, Houdini, PopcornFX
 - GitHub: [@AMoorer](https://github.com/AMoorer)
 
 ---
