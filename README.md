@@ -16,7 +16,7 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 ## Skills in This Repository
 
 ### 🔧 Claude Desktop GitHub Skill Grabber
-**[Download v1.0](https://github.com/AMoorer/claude-skills/releases/latest/download/claude-desktop-github-skill-grabber.zip)** | **[View Source](./claude-desktop-github-skill-grabber/)**
+**[Download v1.0](https://github.com/AMoorer/andys-claude-skills/releases/latest/download/claude-desktop-github-skill-grabber.zip)** | **[View Source](./claude-desktop-github-skill-grabber/)**
 
 Automates downloading Claude skills from GitHub repositories with flexible search options.
 
@@ -34,7 +34,7 @@ Automates downloading Claude skills from GitHub repositories with flexible searc
 ---
 
 ### 📂 GitHub Folder Downloader
-**[Download v1.0](https://github.com/AMoorer/claude-skills/releases/latest/download/github-folder-downloader.zip)** | **[View Source](./github-folder-downloader/)**
+**[Download v1.0](https://github.com/AMoorer/andys-claude-skills/releases/latest/download/github-folder-downloader.zip)** | **[View Source](./github-folder-downloader/)**
 
 Downloads any specific folder from GitHub repositories without cloning the entire repo.
 
@@ -53,7 +53,7 @@ Downloads any specific folder from GitHub repositories without cloning the entir
 ### Quick Install (Claude Desktop)
 
 **Option 1: From Releases (Recommended)**
-1. Go to [Releases](https://github.com/AMoorer/claude-skills/releases/latest)
+1. Go to [Releases](https://github.com/AMoorer/andys-claude-skills/releases/latest)
 2. Download the skill ZIP file(s) you want
 3. Open Claude Desktop → Settings → Capabilities → Skills
 4. Click "Upload skill" and select the ZIP file
@@ -68,15 +68,15 @@ Downloads any specific folder from GitHub repositories without cloning the entir
 
 ```bash
 # Clone this repository
-git clone https://github.com/AMoorer/claude-skills.git
+git clone https://github.com/AMoorer/andys-claude-skills.git
 
 # Copy skill to your project or user skills directory
 cd ~/.claude/skills/
-cp -r /path/to/claude-skills/[skill-name] .
+cp -r /path/to/andys-claude-skills/[skill-name] .
 
 # Or for project-specific skills
 cd your-project/.claude/skills/
-cp -r /path/to/claude-skills/[skill-name] .
+cp -r /path/to/andys-claude-skills/[skill-name] .
 
 # Start Claude Code
 claude
@@ -200,14 +200,14 @@ When using or adapting skills from this repository:
 
 ```markdown
 Based on [skill-name] by Andy Moorer
-https://github.com/AMoorer/claude-skills
+https://github.com/AMoorer/andys-claude-skills
 ```
 
 ## Author
 
 **Andy Moorer**
 - Senior Technical Artist at Meta Reality Labs
-- Focus: Real-time simulation, GenAI, procedural systems, Houdini, PopcornFX
+- Focus: Real-time simulation, procedural systems, PopcornFX
 - GitHub: [@AMoorer](https://github.com/AMoorer)
 
 ---
